@@ -1,0 +1,17 @@
+{
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "files.trimFinalNewlines": true,
+    "typescript.validate.enable": false,
+    "javascript.validate.enable": false,
+    "editor.insertSpaces": true,
+    "[javascript]": {
+        "editor.tabSize": 2,
+    },
+    "[css]": {
+        "editor.tabSize": 2,
+    },
+    "[html]": {
+        "editor.tabSize": 4,
+    },
+}

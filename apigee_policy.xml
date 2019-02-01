@@ -3,7 +3,7 @@
     <DisplayName>Add appid</DisplayName>
     <Add>
         <QueryParams>
-            <QueryParam name=“appid”>(あなたのappid)</QueryParam>
+            <QueryParam name="appid">(あなたのappid)</QueryParam>
         </QueryParams>
     </Add>
     <IgnoreUnresolvedVariables>true</IgnoreUnresolvedVariables>

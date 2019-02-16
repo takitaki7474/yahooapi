@@ -25,7 +25,7 @@
  */
 async function requestGeoCoderAPI(query) {
   const response = await axios({
-    url: 'https://{あなたのApigeeURL}/geocode/V1/geoCoder',
+    url: 'https://shark747474-eval-test.apigee.net/yahoo_map/js/V1/jsapi/geocode/V1/geoCoder',
     params: {
       query,
       output: 'json',
